@@ -1,9 +1,7 @@
 package be.ecam.startgame;
 
 import android.app.Activity;
-import android.os.Build;
 import android.os.Build.VERSION;
-import android.os.Build.VERSION_CODES;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
