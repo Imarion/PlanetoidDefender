@@ -1,4 +1,4 @@
-package be.ecam.startgame;
+package be.ecam.PlanetoidDefender;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

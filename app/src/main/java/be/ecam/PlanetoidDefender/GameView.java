@@ -1,4 +1,4 @@
-package be.ecam.startgame;
+package be.ecam.PlanetoidDefender;
 
 import android.graphics.Canvas;
 import android.view.View;

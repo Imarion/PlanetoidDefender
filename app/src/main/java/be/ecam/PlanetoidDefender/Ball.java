@@ -1,4 +1,4 @@
-package be.ecam.startgame;
+package be.ecam.PlanetoidDefender;
 
 /**
  * Created by qlurkin on 8/03/15.
