@@ -1,5 +1,6 @@
 package be.ecam.PlanetoidDefender;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.os.Build.VERSION;
 import android.os.Bundle;
@@ -33,6 +34,7 @@ public class GameScreen extends Activity {
 
     //hide system UI
     @Override
+    @TargetApi(19)
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
         if ((hasFocus) && (VERSION.SDK_INT >= 19)) {
